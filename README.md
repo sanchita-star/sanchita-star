@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+</p>
+
+---
+
 <h1 align="center">✨ Hey there, I'm Sanchita! ✨</h1>
 
 <p align="center">
@@ -32,7 +38,7 @@ I love building interactive web projects, learning modern tools, and expressing 
 
 ### 🎯 Featured Project
 
-🔗 [🍛 Indofood Website](https://github.com/Sancho-star/Indofood)  
+🔗 [🍛 Indofood Website](https://sanchita.zya.me)  
 A food ordering website with a desi twist! Includes recipe games, search, and login via MySQL.
 
 ---
@@ -48,7 +54,7 @@ A food ordering website with a desi twist! Includes recipe games, search, and lo
 
 ### 📫 Contact Me
 
-📧 Email: *patilsanchita2004@example.com*  
+📧 Email: *patilsanchita2004@gmail.com*  
 ✨ Always open to learning, building, and growing with code and people!!!
 
 ---
