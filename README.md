@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
-</p>
-
----
 
 <h1 align="center">✨ Hey there, I'm Sanchita! ✨</h1>
 
@@ -62,3 +57,5 @@ A food ordering website with a desi twist! Includes recipe games, search, and lo
 <p align="center">
   🌈 Thanks for visiting my profile! Stay creative, stay curious. 💻🌟
 </p>
+
+![github contribution snake gif](https://github.com/Sancho-star/Sancho-star/blob/output/github-contribution-grid-snake.svg)
