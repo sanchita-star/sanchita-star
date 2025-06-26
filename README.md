@@ -1,8 +1,7 @@
 <h1 align="center">✨ Hey there, I'm Sanchita! ✨</h1>
 
 <p align="center">
-  <img src="![WhatsApp Image 2025-06-26 at 20 41 11_5eb3ae0d](https://github.com/user-attachments/assets/e6f1bbe3-2131-4d1c-b787-4a6effb872d1)
-" width="200" alt="Sancho-star avatar" style="border-radius: 50%;" />
+  <img src="avatar.jpg" width="200" alt="Sancho-star avatar" style="border-radius: 50%;" />
 </p>
 
 ---
