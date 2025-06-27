@@ -58,4 +58,3 @@ A food ordering website with a desi twist! Includes recipe games, search, and lo
   🌈 Thanks for visiting my profile! Stay creative, stay curious. 💻🌟
 </p>
 
-![github contribution snake gif](https://github.com/Sancho-star/Sancho-star/blob/output/github-contribution-grid-snake.svg)
