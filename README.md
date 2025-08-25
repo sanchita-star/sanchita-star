@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hey there, I'm Sanchita! ✨</h1>
 
 <p align="center">
-  <img src="avataar.jpg" width="200" alt="Sancho-star avatar" style="border-radius: 50%;" />
+  <img src="avataar.jpg" width="450" alt="Sancho-star avatar" style="border-radius: 50%;" />
 </p>
 
 ---
